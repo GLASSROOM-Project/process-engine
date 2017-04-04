@@ -1,0 +1,19 @@
+1.8
+- Added possibility to combine multiple steps to a chapter.
+
+1.7
+- Added VR scene information.
+
+1.6
+- Added tool annotation.
+
+1.4
+- Added node move and removal in guides.
+- Added method to retrieve all paths in non-cyclic guides.
+
+1.3
+- Added setters for several classes.
+
+1.2
+- [NEW] GuideManager: Added method to serialize guides.
+- Added default methods to retrieve titles, descriptions, and content packages without providing a language code.
